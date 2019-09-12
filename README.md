@@ -1,0 +1,1 @@
+#### 组件通过 export default 暴露自己 其他的vue项目先import fjh-ui 然后fjh.button
